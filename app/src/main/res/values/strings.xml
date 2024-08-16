@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Food Planner</string>
+    <string name="tv_login">"Log IN "</string>
+    <string name="user_name_hint_login">Enter Your E-mail</string>
+    <string name="et_password_login">Enter Your Password</string>
+    <string name="btn_login">LogIn</string>
+    <string name="tv_goToSignUp">Don\'t have an Account? .. Go to SignUP</string>
+    <string name="tv_signUp">SignUP</string>
+    <string name="btn_signUp">SignUp</string>
+    <string name="tv_goToLogin">Back To LogIN ..</string>
+    <string name="tv_mealOfTheDay">Daily Inspiration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_categories">Category</string>
+    <string name="srch">Search</string>
+    <string name="hom">Home</string>
+    <string name="fav">Favourites</string>
+    <string name="calender">Favourites</string>
+    <string name="settings">Settings</string>
+    <string name="tv_ingrediant">Ingrediants:</string>
+    <string name="tv_steps">Instructions:</string>
+    <string name="client_id">1045094569510-vc7c75r1loq8i6cdb7640vcj6npl7i5t.apps.googleusercontent.com</string>
+    <string name="Plan">Plan</string>
+    <string name="time_date">Plan</string>
+    <string name="tv_skip">Want To Use Guest Mode .. Click Here ?</string>
+    <string name="tv_about">About App</string>
+    <string name="tv_logOut">"Log out "</string>
+    <string name="tv_categorySearch">Category</string>
+    <string name="tv_CountrySearch">Country</string>
+    <string name="tv_ingrediantSearch">Ingrediants</string>
+    <string name="tv_mealSearch">Meals</string>
+</resources>
